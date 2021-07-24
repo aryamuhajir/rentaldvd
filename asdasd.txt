@@ -1,0 +1,11 @@
+--------NOTA RENTAL--------
+Kode : 23324
+Nama : asdasd
+Judul : Bucin
+Tanggal Peminjaman : 2020-12-23
+Tanggal Pengembalian : 2020-12-24
+Biaya : IDR 10,000.00
+
+
+MOHON DIKEMBALIKAN TEPAT WAKTU!
+Terima Kasih ~ RENTAL DVD UTM

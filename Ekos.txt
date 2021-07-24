@@ -1,0 +1,11 @@
+--------NOTA RENTAL--------
+Kode : 2
+Nama : Ekos
+Judul : Imperfect
+Tanggal Peminjaman : 2021-06-01
+Tanggal Pengembalian : 2021-06-06
+Biaya : IDR 25,000.00
+
+
+MOHON DIKEMBALIKAN TEPAT WAKTU!
+Terima Kasih ~ RENTAL DVD UTM

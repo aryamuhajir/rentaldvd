@@ -1,0 +1,11 @@
+--------NOTA RENTAL--------
+Kode : 6
+Nama : zaki
+Judul : Bucin
+Tanggal Peminjaman : 2021-06-08
+Tanggal Pengembalian : 2021-06-10
+Biaya : IDR 15,000.00
+
+
+MOHON DIKEMBALIKAN TEPAT WAKTU!
+Terima Kasih ~ RENTAL DVD UTM

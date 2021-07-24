@@ -1,0 +1,11 @@
+--------NOTA RENTAL--------
+Kode : 8
+Nama : Farid
+Judul : Mulan
+Tanggal Peminjaman : 2021-06-24
+Tanggal Pengembalian : 2021-06-27
+Biaya : IDR 17,000.00
+
+
+MOHON DIKEMBALIKAN TEPAT WAKTU!
+Terima Kasih ~ RENTAL DVD UTM
